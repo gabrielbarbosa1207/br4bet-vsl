@@ -361,7 +361,7 @@ width: 100%;
 }
 
 .ocultar{
-  display: none;
+  display: block;
 }
 
 
